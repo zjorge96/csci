@@ -1,0 +1,12 @@
+basic_materials.txt
+comm_services.txt
+con_cyclical.txt
+con_defensive.txt
+energy.txt
+fin_services.txt
+healthcare.txt
+industrials.txt
+real_estate.txt
+technology.txt
+utilities.txt
+zmisc.txt
